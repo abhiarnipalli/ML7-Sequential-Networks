@@ -3,9 +3,6 @@
 ## Project Overview
 This project focuses on developing and evaluating sequential network architectures for a sentiment classification task. The primary objective is to compare different models' validation accuracy to determine the most efficient architecture for sentiment analysis. The project involves implementing various sequential models, including Recurrent Neural Networks (RNNs) and Convolutional Neural Networks (CNNs), to process and analyze large-scale data.
 
-## Project Duration
-**December 2023 - December 2023**
-
 ## Skills Utilized
 - Deep Learning
 - Large-scale Data Analysis
